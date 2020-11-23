@@ -1,0 +1,41 @@
+.menu-link{
+font-family: "Roboto", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 1.142;
+letter-spacing: 0.02em;
+text-align: left;
+color: #212121;
+
+
+}
+.menu-link:hover,
+.menu-link:focus{
+    color: #2196F3;
+
+}
+.header-tel,
+.header-mail{
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.142;
+letter-spacing: 0.02em;
+
+}
+
+.header-mail:hover,
+.header-mail:focus{
+    color: #2196F3;
+}
+.header-tel:hover,
+.header-tel:focus{
+    color: #2196F3;
+}
+
+
+
+
+
+
