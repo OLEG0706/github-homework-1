@@ -33,6 +33,140 @@ letter-spacing: 0.02em;
 .header-tel:focus{
     color: #2196F3;
 }
+.header-web{
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.header-studio{
+    font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.hero-list{
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.363;
+/* or 136% */
+
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+/*color: #FFFFFF;*/
+}
+.modal-btn{
+    
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+/*color: #FFFFFF;*/
+}
+
+.undertittle{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.designation{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+color: #757575;
+}
+.occupation-head{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+.occupation-img-one{
+position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 1061px;
+}
+
+.occupation-img-two{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 1061px;
+
+}
+.occupation-img-three{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 1061px;
+    
+}
+
+.our-team{
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+}
+
+
+
 
 
 
