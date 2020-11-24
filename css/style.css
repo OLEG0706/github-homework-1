@@ -6,9 +6,12 @@ line-height: 1.142;
 letter-spacing: 0.02em;
 text-align: left;
 color: #212121;
-
-
 }
+
+.modal-btn{
+background: #2196F3
+}
+
 .menu-link:hover,
 .menu-link:focus{
     color: #2196F3;
@@ -99,7 +102,7 @@ font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
-line-height: 24px;
+line-height: 1.714;
 /* or 171% */
 letter-spacing: 0.03em;
 color: #757575;
@@ -109,43 +112,10 @@ font-family: Roboto;
 font-style: normal;
 font-weight: bold;
 font-size: 36px;
-line-height: 42px;
+line-height: 1.166;
 text-align: center;
 letter-spacing: 0.03em;
-
-color: #212121;
-font-family: Roboto;
-font-size: 36px;
-font-style: normal;
-font-weight: 700;
-line-height: 42px;
-letter-spacing: 0.03em;
-text-align: center;
-
-}
-.occupation-img-one{
-position: absolute;
-width: 370px;
-height: 294px;
-left: 215px;
-top: 1061px;
-}
-
-.occupation-img-two{
-    position: absolute;
-width: 370px;
-height: 294px;
-left: 615px;
-top: 1061px;
-
-}
-.occupation-img-three{
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 1015px;
-    top: 1061px;
-    
+color: #212121;;
 }
 
 .our-team{
@@ -153,20 +123,88 @@ font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
-line-height: 42px;
+line-height: 1.166;
 letter-spacing: 0.03em;
 text-align: center;
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 36px;
-line-height: 42px;
-text-align: center;
-letter-spacing: 0.03em;
 }
 
+.lead-team{
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+.position-lead{
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color:  #757575;
+}
 
+.footer-logo{
+font-family: Raleway;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-align: left;
 
+font-family: Oleo Script;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+
+.footer-address{
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+/*color: #FFFFFF;*/
+
+}
+
+.footer-mail{
+    font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color:  #757575;
+}
+
+.footer-tel{
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color:  #757575;
+
+}
+
+.link-menu-item:hover,
+.link-menu-item:focus{
+    color: #2196F3;
+}
 
 
 
