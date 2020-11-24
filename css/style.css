@@ -37,28 +37,28 @@ letter-spacing: 0.02em;
     color: #2196F3;
 }
 .header-web{
-font-family: Raleway;
+font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 26px;
-line-height: 31px;
+line-height: 1.191;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #2196F3;
 }
 .header-studio{
-    font-family: Raleway;
+font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 26px;
-line-height: 31px;
+line-height: 1.191;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #212121;
 }
 
 .hero-list{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 900;
 font-size: 44px;
@@ -73,11 +73,11 @@ text-transform: uppercase;
 }
 .modal-btn{
     
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 16px;
-line-height: 30px;
+line-height: 1.875;
 /* identical to box height, or 187% */
 
 display: flex;
@@ -88,17 +88,17 @@ letter-spacing: 0.06em;
 }
 
 .undertittle{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 14px;
-line-height: 16px;
+line-height: 1.142;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;
 }
 .designation{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
@@ -108,7 +108,7 @@ letter-spacing: 0.03em;
 color: #757575;
 }
 .occupation-head{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 36px;
@@ -119,7 +119,7 @@ color: #212121;;
 }
 
 .our-team{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
@@ -129,49 +129,49 @@ text-align: center;
 }
 
 .lead-team{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
-line-height: 19px;
+line-height: 1.187;
 letter-spacing: 0.03em;
 text-align: center;
 }
 .position-lead{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 19px;
+line-height: 1.187;
 letter-spacing: 0.03em;
 text-align: center;
 color:  #757575;
 }
 
 .footer-logo{
-font-family: Raleway;
+font-family: 'Raleway', sans-serif;
 font-size: 26px;
 font-style: normal;
 font-weight: 700;
-line-height: 31px;
+line-height: 1.192;
 letter-spacing: 0.03em;
 text-align: left;
 
-font-family: Oleo Script;
+font-family: 'Oleo Script', cursive;
 font-size: 26px;
 font-style: normal;
 font-weight: 400;
-line-height: 36px;
+line-height: 1.384;
 letter-spacing: 0.03em;
 text-align: left;
 }
 
 .footer-address{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.714;
 letter-spacing: 0.03em;
 text-align: left;
 /*color: #FFFFFF;*/
@@ -179,22 +179,22 @@ text-align: left;
 }
 
 .footer-mail{
-    font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.714;
 letter-spacing: 0.03em;
 text-align: left;
 color:  #757575;
 }
 
 .footer-tel{
-font-family: Roboto;
+font-family: 'Roboto', sans-serif;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px;
+line-height: 1.714;
 letter-spacing: 0.03em;
 text-align: left;
 color:  #757575;
@@ -205,6 +205,197 @@ color:  #757575;
 .link-menu-item:focus{
     color: #2196F3;
 }
+
+
+.footer-mail:hover,
+.footer-mail:focus{
+    color: #2196F3;
+}
+.footer-tel:hover,
+.footer-tel:focus{
+    color: #2196F3;
+}
+
+.head-kryak{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+}
+
+.web-kryak {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.875;
+letter-spacing: 0.03em;
+text-align: left;
+}
+
+.golde-star-head{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    text-align: left;
+}
+
+.dis-star{
+    font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.875;
+letter-spacing: 0.03em;
+text-align: left;
+}
+
+.seafood-head{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    text-align: left;
+}
+
+.seafood{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.875;
+    letter-spacing: 0.03em;
+    text-align: left;
+    }
+
+    .project-head{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        text-align: left;
+    }
+
+    .project{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.875;
+        letter-spacing: 0.03em;
+        text-align: left;
+    }
+
+    .boxes-head{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        text-align: left;
+    }
+
+    .boxes{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.875;
+        letter-spacing: 0.03em;
+        text-align: left;
+    }
+
+    .borders-head{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        text-align: left;
+    }
+
+    .borders{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.875;
+        letter-spacing: 0.03em;
+        text-align: left;
+    }
+
+    .edition-head{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        text-align: left;  
+    }
+
+    .edition{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.875;
+        letter-spacing: 0.03em;
+        text-align: left;
+    }
+
+    .lab-head{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        text-align: left;  
+    }
+
+    .lab{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.875;
+        letter-spacing: 0.03em;
+        text-align: left;  
+    }
+
+    .growing-head{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        text-align: left;  
+    }
+
+    .growing{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.875;
+        letter-spacing: 0.03em;
+        text-align: left;  
+    }
 
 
 
