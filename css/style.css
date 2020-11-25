@@ -2,8 +2,9 @@
     --accent-color: #2196F3;
     --main-font: #212121;
     --secondory-font:  #757575;
+}
 
-    /*====================hero===================*/
+
 
 .menu-link{
 font-family: "Roboto", sans-serif;
@@ -19,7 +20,7 @@ color: var(--main-font);
 background: var(--accent-color);
 
 }
-/*=============description of work================*/
+
 .menu-link:hover,
 .menu-link:focus{
     color: var(--accent-color);
@@ -128,8 +129,6 @@ letter-spacing: 0.03em;
 color: var(--main-font);
 }
 
-/*===========our team=============*/
-
 .our-team{
 font-family: 'Roboto', sans-serif;
 font-size: 36px;
@@ -159,8 +158,6 @@ letter-spacing: 0.03em;
 text-align: center;
 color:   var( --secondory-font);
 }
-
-/*==============footer============*/
 
 .footer-logo{
 font-family: 'Raleway', sans-serif;
@@ -215,10 +212,6 @@ color:  var( --secondory-font);
 
 }
 
-
-/*===========second list===========*/
-
-/*===========header==============*/
 .link-menu-item:hover,
 .link-menu-item:focus{
     color: var(--accent-color);
@@ -233,8 +226,6 @@ color:  var( --secondory-font);
 .footer-tel:focus{
     color: var(--accent-color);
 }
-
-/*========hero=======*/
 
 .head-kryak{
     font-family: 'Roboto', sans-serif;
@@ -255,6 +246,7 @@ font-weight: 400;
 line-height: 1.875;
 letter-spacing: 0.03em;
 text-align: left;
+color: var( --secondory-font);
 }
 
 .golde-star-head{
@@ -268,13 +260,14 @@ text-align: left;
 }
 
 .dis-star{
-    font-family: 'Roboto', sans-serif;
+ font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.875;
 letter-spacing: 0.03em;
 text-align: left;
+color: var( --secondory-font);
 }
 
 .seafood-head{
@@ -295,6 +288,7 @@ text-align: left;
     line-height: 1.875;
     letter-spacing: 0.03em;
     text-align: left;
+    color: var( --secondory-font);
     }
 
     .project-head{
@@ -315,6 +309,7 @@ text-align: left;
         line-height: 1.875;
         letter-spacing: 0.03em;
         text-align: left;
+        color: var( --secondory-font);
     }
 
     .boxes-head{
@@ -335,6 +330,7 @@ text-align: left;
         line-height: 1.875;
         letter-spacing: 0.03em;
         text-align: left;
+        color: var( --secondory-font);
     }
 
     .borders-head{
@@ -355,6 +351,7 @@ text-align: left;
         line-height: 1.875;
         letter-spacing: 0.03em;
         text-align: left;
+        color: var( --secondory-font);
     }
 
     .edition-head{
@@ -375,6 +372,7 @@ text-align: left;
         line-height: 1.875;
         letter-spacing: 0.03em;
         text-align: left;
+        color: var( --secondory-font);
     }
 
     .lab-head{
@@ -395,6 +393,7 @@ text-align: left;
         line-height: 1.875;
         letter-spacing: 0.03em;
         text-align: left;  
+        color: var( --secondory-font);
     }
 
     .growing-head{
@@ -415,10 +414,11 @@ text-align: left;
         line-height: 1.875;
         letter-spacing: 0.03em;
         text-align: left;  
+        color: var( --secondory-font);
     }
 
     a {text-decoration: none;}
-/*==========end hero================*/
+
 
 
 
