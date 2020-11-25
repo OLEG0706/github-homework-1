@@ -1,3 +1,10 @@
+:root{
+    --accent-color: #2196F3;
+    --main-font: #212121;
+    --secondory-font:  #757575;
+
+    /*====================hero===================*/
+
 .menu-link{
 font-family: "Roboto", sans-serif;
 font-size: 14px;
@@ -5,16 +12,17 @@ font-weight: 500;
 line-height: 1.142;
 letter-spacing: 0.02em;
 text-align: left;
-color: #212121;
+color: var(--main-font);
 }
 
 .modal-btn{
-background: #2196F3
-}
+background: var(--accent-color);
 
+}
+/*=============description of work================*/
 .menu-link:hover,
 .menu-link:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 
 }
 .header-tel,
@@ -28,13 +36,15 @@ letter-spacing: 0.02em;
 
 }
 
-.header-mail:hover,
+.header-mail:hover{
+    color: var(--accent-color);
+}
 .header-mail:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 }
 .header-tel:hover,
 .header-tel:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 }
 .header-web{
 font-family: 'Raleway', sans-serif;
@@ -44,7 +54,7 @@ font-size: 26px;
 line-height: 1.191;
 /* identical to box height */
 letter-spacing: 0.03em;
-color: #2196F3;
+color: var(--accent-color);
 }
 .header-studio{
 font-family: 'Raleway', sans-serif;
@@ -54,7 +64,7 @@ font-size: 26px;
 line-height: 1.191;
 /* identical to box height */
 letter-spacing: 0.03em;
-color: #212121;
+color: var(--main-font);
 }
 
 .hero-list{
@@ -95,7 +105,7 @@ font-size: 14px;
 line-height: 1.142;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #212121;
+color: var(--main-font);
 }
 .designation{
 font-family: 'Roboto', sans-serif;
@@ -105,7 +115,7 @@ font-size: 14px;
 line-height: 1.714;
 /* or 171% */
 letter-spacing: 0.03em;
-color: #757575;
+color: var( --secondory-font);
 }
 .occupation-head{
 font-family: 'Roboto', sans-serif;
@@ -115,8 +125,10 @@ font-size: 36px;
 line-height: 1.166;
 text-align: center;
 letter-spacing: 0.03em;
-color: #212121;;
+color: var(--main-font);
 }
+
+/*===========our team=============*/
 
 .our-team{
 font-family: 'Roboto', sans-serif;
@@ -145,8 +157,10 @@ font-weight: 400;
 line-height: 1.187;
 letter-spacing: 0.03em;
 text-align: center;
-color:  #757575;
+color:   var( --secondory-font);
 }
+
+/*==============footer============*/
 
 .footer-logo{
 font-family: 'Raleway', sans-serif;
@@ -186,7 +200,7 @@ font-weight: 400;
 line-height: 1.714;
 letter-spacing: 0.03em;
 text-align: left;
-color:  #757575;
+color:   var( --secondory-font);
 }
 
 .footer-tel{
@@ -197,24 +211,30 @@ font-weight: 400;
 line-height: 1.714;
 letter-spacing: 0.03em;
 text-align: left;
-color:  #757575;
+color:  var( --secondory-font);
 
 }
 
+
+/*===========second list===========*/
+
+/*===========header==============*/
 .link-menu-item:hover,
 .link-menu-item:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 }
 
 
 .footer-mail:hover,
 .footer-mail:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 }
 .footer-tel:hover,
 .footer-tel:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 }
+
+/*========hero=======*/
 
 .head-kryak{
     font-family: 'Roboto', sans-serif;
@@ -397,8 +417,8 @@ text-align: left;
         text-align: left;  
     }
 
-
-
+    a {text-decoration: none;}
+/*==========end hero================*/
 
 
 
