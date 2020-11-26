@@ -21,7 +21,7 @@ color: var(--main-font);
 
 .modal-btn{
 background: var(--accent-color);
-
+color: #ffffff;
 }
 
 .menu-link:hover,
@@ -37,7 +37,7 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.142;
 letter-spacing: 0.02em;
-
+color:var( --secondory-font);
 }
 
 .header-mail:hover{
@@ -161,6 +161,29 @@ letter-spacing: 0.03em;
 text-align: center;
 color:   var( --secondory-font);
 }
+
+.footer-web{
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.191;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: var(--accent-color);
+}
+
+.footer-studio{
+    font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.191;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: var(--main-font);
+}
+
 
 .footer-logo{
 font-family: 'Raleway', sans-serif;
@@ -426,6 +449,28 @@ ul{
     list-style:none
 }
 
+.button{
+    background: #F5F4FA;
+    border:none;
+}
+.button:hover,
+.button:focus{
 
+    color:  #ffffff;
+    background: var(--accent-color);
+} 
+
+.button{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1/625;
+    letter-spacing: 0.03em;
+    text-align: center;
+
+
+
+}
 
 
